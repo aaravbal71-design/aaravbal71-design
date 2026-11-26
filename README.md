@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aaravbal71-design/aaravbal71design/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+</div>
 
 **Building things that matter.**
 
