@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B12,100:15803D&height=160&section=header&text=Aarav%20Bal&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descSize=15&descAlignY=65" width="100%"/>
+  <img src="https://raw.githubusercontent.com/aaravbal71-design/aaravbal71design/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+</div>
 
 **Building things that matter.**
 
